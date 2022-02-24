@@ -53,7 +53,6 @@ public class classlock {
 		String operationsSelection = scanner.nextLine();
 		switch (operationsSelection) {
 		case "1":
-			System.out.println("Please provide a file path");
 			addFile();
 			break;
 		case "2":
