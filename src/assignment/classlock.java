@@ -120,6 +120,8 @@ public class classlock {
 
 			System.out.println(errormessage);
 		}
+				operationsMenu();
+
 	}
 
 	public static void deleteFile() {
